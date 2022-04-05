@@ -31,6 +31,10 @@ section img{
     color:white;
     padding:10px 40px;
 }
+.half-width a:hover{
+    background-image: linear-gradient(tomato,orange);
+    color: black;
+}
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
